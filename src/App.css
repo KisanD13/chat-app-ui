@@ -13,7 +13,6 @@
   width: 35%;
   background-color: #f8f8f8;
   height: 100%;
-  /* overflow-y: auto; */
   display: flex; /* Make .users a flex container */
   flex-direction: column;
   border-right: 1px solid #fff;

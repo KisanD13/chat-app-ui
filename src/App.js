@@ -10,7 +10,6 @@ function App() {
     setUser(infos);
   };
 
-  // console.log(user);
   return (
     <div className='App'>
       <ChatList onChatClick={getUser} />
